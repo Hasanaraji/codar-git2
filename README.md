@@ -1,2 +1,1 @@
-# codar-git2
-Practice cloning at Codar.
+A Repo where I learnt to clone from a remote origin.
